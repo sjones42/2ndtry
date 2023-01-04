@@ -1,1 +1,2 @@
 everything seems to be working so far
+if you include a README when creating a repo on github.com, it uses the branch "main" as the default master
