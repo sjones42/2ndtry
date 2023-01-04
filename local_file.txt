@@ -1,0 +1,4 @@
+new exercise2 attempt
+first attempt to create remote repo had both a master and main branch
+I pushed this file to the master, and it was not in main
+this attempt is to fix that by only having a master branch on the remote repo
